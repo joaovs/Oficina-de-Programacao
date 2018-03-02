@@ -1,0 +1,5 @@
+ 02) mkdir --> Criar pasta
+ 03) mkdir -p --> Criar arvore diretóri
+ 04) rm --> deleta arquivo / rm -r --> deleta diretorio 
+ 05) rm -rf --> deleta arquivo forçadamente.
+ 06) scp -r usuario@ip:~/PASTA . --> Faz download das coisas do usuario desejad scp -r usuario@ip:~/PASTA . --> Faz download das coisas do usuario desejadoo 
